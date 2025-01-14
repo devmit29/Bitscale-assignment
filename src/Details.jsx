@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import frame16 from 'src/assets/table header/Frame 16.svg';
-import image16 from 'src/assets/table header/image 16.svg';
-import image54 from 'src/assets/table header/image 54.svg';
-import plus from 'src/assets/table header/plus.svg';
+import frame16 from 'src/assets/table-header/Frame-16.svg';
+import image16 from 'src/assets/table-header/image-16.svg';
+import image54 from 'src/assets/table-header/image-54.svg';
+import plus from 'src/assets/table-header/plus.svg';
 import logomark from 'src/assets/logos/Logomark.svg';
 import alertTriangle from 'src/assets/alert-triangle.svg';
 import bmw from 'src/assets/logos/bmw.svg';
