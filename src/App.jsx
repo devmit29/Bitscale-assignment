@@ -14,7 +14,7 @@ function App() {
     <>
       <nav className='border-b-2 border-gray-150 w-full flex justify-between items-center text-white p-4 '>
         <div className='flex justify-center items-center'>
-          <img src='src/assets/arrow-left.svg' alt='back-arrow' className='mr-2 cursor-pointer' />
+          <img src='public/assets/arrow-left.svg' alt='back-arrow' className='mr-2 cursor-pointer' />
           <p className='text-gray-500'>Name of the file</p>
         </div>
         <div className='flex justify-between items-center'>
