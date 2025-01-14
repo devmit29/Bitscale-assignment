@@ -1,17 +1,17 @@
 import React, { useState } from 'react';
-import frame16 from 'src/assets/table-header/Frame-16.svg';
-import image16 from 'src/assets/table-header/image-16.svg';
-import image54 from 'src/assets/table-header/image-54.svg';
-import plus from 'src/assets/table-header/plus.svg';
-import logomark from 'src/assets/logos/Logomark.svg';
-import alertTriangle from 'src/assets/alert-triangle.svg';
-import bmw from 'src/assets/logos/bmw.svg';
-import linkExternal from 'src/assets/link-external-02.svg';
-import third from 'src/assets/logos/3rd.svg';
-import loading from 'src/assets/loading.svg';
-import fourth from 'src/assets/logos/4th.svg';
-import fifth from 'src/assets/logos/5th.svg';
-import playCircle from 'src/assets/play_circle.svg';
+import frame16 from './assets/table-header/Frame-16.svg';
+import image16 from './assets/table-header/image-16.svg';
+import image54 from './assets/table-header/image-54.svg';
+import plus from './assets/table-header/plus.svg';
+import logomark from './assets/logos/Logomark.svg';
+import alertTriangle from './assets/alert-triangle.svg';
+import bmw from './assets/logos/bmw.svg';
+import linkExternal from './assets/link-external-02.svg';
+import third from './assets/logos/3rd.svg';
+import loading from './assets/loading.svg';
+import fourth from './assets/logos/4th.svg';
+import fifth from './assets/logos/5th.svg';
+import playCircle from './assets/play_circle.svg';
 
 function Details() {
   const [headers, setHeaders] = useState([
